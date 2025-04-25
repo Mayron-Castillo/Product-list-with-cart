@@ -1,18 +1,11 @@
 import './App.css'
-import data from './data/data.json'
+import Datos from './components/Datos'
+
 
 function App() {
   return (
     <>
-      <section className='bg-gray-300 w-full h-lvh flex justify-center items-center'>
-          {data.map((item,index)=>{
-            return(
-              <div key={index}>
-                <h2>{item.name}</h2>
-              </div>
-            )
-          })}
-      </section>
+      <Datos></Datos>
     </>
   )
 }
