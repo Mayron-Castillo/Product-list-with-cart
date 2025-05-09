@@ -13,7 +13,7 @@ function Datos() {
                         <div className="bg-yellow-50 w-[180px] rounded-full flex justify-center p-3 border border-amber-600 -mt-6">
                             <button class='flex gap-2 cursor-pointer'>
                                 <img src="/public/assets/images/icon-add-to-cart.svg" alt="" />
-                                <p>Add To Cart</p>
+                                <p class='font-bold text-sm'>Add To Cart</p>
                             </button>
                         </div>
                     </div>
