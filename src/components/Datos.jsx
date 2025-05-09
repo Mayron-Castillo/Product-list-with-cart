@@ -10,7 +10,7 @@ function Datos() {
                     <div className="relative flex flex-col items-center">
                         <img src={item.image.desktop} alt="" className="w-[280px] rounded-lg" />
                         
-                        <div className="bg-yellow-50 w-[180px] rounded-full flex justify-center p-3 border border-amber-600 -mt-6">
+                        <div className="bg-[#FEFFFF] w-[180px] rounded-full flex justify-center p-3 border border-[#AB9F9F] -mt-6">
                             <button class='flex gap-2 cursor-pointer'>
                                 <img src="/public/assets/images/icon-add-to-cart.svg" alt="" />
                                 <p class='font-bold text-sm'>Add To Cart</p>
