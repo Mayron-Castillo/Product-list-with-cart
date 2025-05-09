@@ -5,7 +5,7 @@ function Cart() {
 
             {/* Esto aparece solamente cuando no hay items agregados al carrito */}
             <div class='flex flex-col items-center p-4'>
-                <img src="/public/assets/images/illustration-empty-cart.svg" alt="" class='w-[150px]' />
+                <img src="assets/images/illustration-empty-cart.svg" alt="" class='w-[150px]' />
                 <p>Your added items will appear here</p>
             </div>
 
