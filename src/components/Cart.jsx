@@ -12,7 +12,7 @@ function Cart() {
             {/* Cuando se agreguen items al carrito se deben mostrar en este estilo */}
             <div class='flex justify-between'>
                 <div class='flex gap-4'>
-                    <img src="/public/assets/images/image-macaron-thumbnail.jpg" alt="" class='w-16' />
+                    <img src="assets/images/image-macaron-thumbnail.jpg" alt="" class='w-16' />
                     <div class='flex flex-col'>
                         <p class='font-bold'>Classic Tiramisu</p>
                         <div class='flex gap-8'>
