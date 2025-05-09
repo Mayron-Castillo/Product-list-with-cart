@@ -22,7 +22,7 @@ function Cart() {
                     </div>
                 </div>
                 <div class='flex items-center cursor-pointer'>
-                    <img src="/public/assets/images/icon-remove-item.svg" alt="" class='border rounded-full p-1 border-gray-400' />
+                    <img src="assets/images/icon-remove-item.svg" alt="" class='border rounded-full p-1 border-gray-400' />
                 </div>
             </div>
             <hr class='text-gray-100'/>
@@ -35,7 +35,7 @@ function Cart() {
 
             {/* Mensaje de carbon neutral y boton para confirmar compra */}
             <div class='flex justify-center bg-gray-100 p-3 rounded-lg'>
-                <img src="/public/assets/images/icon-carbon-neutral.svg" alt="" class='w-6' />    
+                <img src="assets/images/icon-carbon-neutral.svg" alt="" class='w-6' />    
                 <p >This is a <span class='font-bold'>carbon-neutral</span> delivery</p>
             </div>
             <button class='bg-orange-600 text-white p-3 rounded-full cursor-pointer hover:bg-orange-700'>Confirm Order</button>
